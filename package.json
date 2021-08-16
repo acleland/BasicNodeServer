@@ -1,0 +1,19 @@
+{
+  "name": "basicnodeserver",
+  "version": "1.0.0",
+  "description": "Playground for me to learn exress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acleland/BasicNodeServer.git"
+  },
+  "author": "Andrea Cleland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acleland/BasicNodeServer/issues"
+  },
+  "homepage": "https://github.com/acleland/BasicNodeServer#readme"
+}
